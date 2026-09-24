@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "841f42086d9d58806f0cee64",
+  "owner": "vjsakshvh",
+  "repo": "page-55fa272181f9ce56b1e2f9ca",
+  "title": "OK网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "55fa272181f9ce56b1e2f9ca",
+      "a": "OK网络",
+      "b": "2027最新官网",
+      "entity": "OK网络",
+      "brand": "OK网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6086f99bfbfec6a6d24a0db05d59d89e93349c0554b7d9095a6b8a20c122e0f2",
+      "content": {
+        "primary_entity": "OK网络",
+        "keyword1": "OK网络",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，配置订阅前可先确认套餐设备数量。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑好套餐，再导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月付分别为 ¥15、¥35 和 ¥85，按年付可享 ¥150/年、¥350/年与 ¥850/年。基础版适合 3 台设备轻度使用，旗舰版覆盖 5 台设备并加入 IPLC 专线游戏加速，团队版则以 20 台设备和 1000GB 月流量面向小型团队。客户端覆盖常见桌面与移动系统，导入订阅后即可按节点池选择线路。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三方面考量。",
+          "AI_FEATURES_TITLE": "选择套餐的关键维度",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按常用设备数选择。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 至 1000GB 流量，按日常用量匹配不浪费。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付以更低月均成本锁定长期使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "OK网络提供多档海外加速订阅，基础版、旗舰版和团队版分别覆盖 3 台、5 台和 20 台设备，月流量从 100GB 到 1000GB 可选，旗舰版还加入 IPLC 专线游戏加速。按需求选套餐，再用客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备 ¥15/月",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备 ¥35/月",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备 ¥85/月",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版面向 5 台设备并有 IPLC 专线游戏加速，团队版支持 20 台设备和 1000GB 月流量。按年付分别 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版或团队版中挑选合适订阅。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端覆盖范围内，并核对同时在线设备上限。",
+          "AI_STEP_TEXT_3": "按照对应客户端的说明导入订阅信息，选择节点后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "OK网络海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "OK网络套餐之间主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备并含原生流媒体解锁；团队版每月1000GB、支持20台设备，另含VIP节点和企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时登录多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "同一时间在线设备数以所购套餐为准，基础版3台、旗舰版5台、团队版20台。超出数量可能无法同时连接，建议按实际设备数选择档位。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付¥15、年付¥150，相当于省两个月费用；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850，长期使用选年付更划算。",
+          "AI_FAQ_QUESTION_4": "订阅链接导入客户端后无法连接怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅是否已更新，再检查客户端时间与系统时间是否一致，必要时重新复制订阅链接导入，并查看所用客户端文档中的排错说明。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由和专属客户经理，适合小型团队或多人共享使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-if0fv4qhynhxee63c.com",
+    "host": "xn--vpn-if0fv4qhynhxee63c.com"
+  },
+  "file_hashes": {
+    "index.html": "e42ba8676f585b410ff23240c9f3294538fa255aaf8e339903a0b2b37b19622a",
+    "sitemap.xml": "1bf8d65f42838ed769a44a60e7e04422d762f0c52938a3df5790d29da8052c0f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5a5bf1d64e445142a2447b31e24baaa8454fd640c40978c9f0881c25fd6ab246",
+    "robots.txt": "044a54e59857265669f166fc3d1dddd624c389d2080b17350a65e2613b295fea",
+    "ac211c583da3bf45277ecffe87b139cc.txt": "75c4a4b4ad5ce1be64f1b3b8fc6009d306efe8da02509727f3e0ca8e45b778c7"
+  },
+  "revision": "852345ab163a11d11b3e4a4d01b37c58d8ac3f0f0511b355278472c82dd40488"
+}
